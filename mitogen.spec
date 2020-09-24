@@ -4,7 +4,7 @@
 #
 Name     : mitogen
 Version  : 0.2.9
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/67/65/612aa75b9b16ef4d81d1f840ce59f01a7b348ee54df8966be0aeea7e7848/mitogen-0.2.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/67/65/612aa75b9b16ef4d81d1f840ce59f01a7b348ee54df8966be0aeea7e7848/mitogen-0.2.9.tar.gz
 Summary  : Library for writing distributed self-replicating programs.
